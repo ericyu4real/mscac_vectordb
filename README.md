@@ -19,21 +19,12 @@ We are excited to have contributors from the MScAC community and beyond. To cont
    - Once you've added your file to your forked repository, create a pull request to the main repository.
    - Clearly describe what your file is about and why it adds value to the knowledge base.
 
-### Review Process
-
-- All submissions will be reviewed by repository maintainers.
-- The review process will focus on the relevance of the content, the quality of information, and adherence to submission guidelines.
-- If changes are requested, please make them promptly to expedite the review process.
-
 ## Contribution Guidelines
 
 - **Content**: Ensure that the content is directly related to the MScAC program or student life. Irrelevant submissions will not be accepted.
 - **File Format**: Only PDF and TXT files are accepted. Please ensure your files are readable and free of any malware.
 - **Language**: Submissions should preferably be in English to maintain consistency and accessibility.
 
-## Code of Conduct
-
-Contributors are expected to adhere to a standard of respect and courtesy. Any form of harassment or offensive behavior will not be tolerated.
 
 ## Questions or Concerns?
 
