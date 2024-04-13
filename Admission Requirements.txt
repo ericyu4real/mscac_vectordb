@@ -1,0 +1,104 @@
+﻿2023 MScAC Admission Requirements:
+
+Applicable to All Concentrations
+All applicants must have:
+* Completed or be the process of completing an appropriate undergraduate degree for the concentration they are applying to.
+* A standing equivalent to at least B+ (U of T 77-79%) in their final year (i.e., two terms) of study (the equivalent of 5 full credits, or 10 half credits).
+   * If you completed your undergraduate degree outside of Canada, please use the University of Toronto’s International Credentials Equivalencies Tool to determine what credentials are required for admission.
+* Achieved English-language proficiency according to the requirements set by the School of Graduate Studies.
+* Work experience (including co-op placements or internships) is preferred, but not required.
+* Research experience (including summer research assistantships or internships) is preferred, but not required.
+* Applicants are required to submit the following documents:
+   * Copies of all academic transcripts pertaining to qualifications gained from undergraduate onwards (high school certificates are not required).
+   * Resume/CV (1–2 pages in length)
+   * Answers to program-specific questions addressing their interest in the preferred concentration(s) and objectives for the program.
+   * Details of three referees (names, affiliations i.e university/company, and e-mail addresses).
+   * English Language Proficiency (ELP) test scores (if applicable).
+   * Graduate Record Examination (GRE) scores (if applicable).
+   * Any other relevant information you would like to share with the admissions committee e.g. links to projects, research papers, personal Github repos, etc.
+Program-Specific Questions
+For admission into the MScAC program, applicants must provide answers to program-specific questions. This is an opportunity to explain how personal goals and interests align with the program and why a student should be admitted. Additionally, students are encouraged to use their answers to demonstrate a commitment to quality and skills in English.
+Points students will be required to address:
+* An understanding of the requirements of graduate school in general and the MScAC program.
+* The appropriateness of the program for personal career aspirations.
+* Reasons why they have chosen the specific concentration and any appropriate research/applied research/industry experience, including their contributions.
+* Specific details regarding their research area(s) of interest and an understanding and awareness of any industry trends in relation to this.
+* Innovative projects and solutions they have worked on.
+* Teamwork and leadership skills they have demonstrated.
+References
+The MScAC program requires three letters of support from faculty members and/or employers. Ideally, at least two of the referee letters should be academic references. However, given the nature of the program, it is entirely appropriate to use referees who have an industry background and been in a senior or supervisory capacity. If a referee does not have an institutional email and is using a “free” e-mail address (Gmail, Hotmail, etc.), details of their professional profile, such as a faculty/LinkedIn page, must be included in the “Additional Information” section of the application form.
+English Language Requirements and Submission
+The admitting degree for the MSc in Applied Computing program is the qualification considered equivalent to a University of Toronto four-year undergraduate degree. The admitting degree is what the requirement for English-Language Proficiency tests is based on.
+Requirements for proof of English Language Proficiency:
+* If the undergraduate degree was earned at a university where the language of instruction and examination is not English, an acceptable ELP Test must be passed.
+* If the undergraduate degree was earned at a university where the language of instruction and examination was uniformly English, an applicant may be exempt. However, a letter confirming the language of instruction and examination may still be required and must be provided by the applicant’s home institution.
+* If a degree was earned in a program split between two institutions, where one of the institution’s languages of instruction and examination was not uniformly English, language scores must be provided.
+* Other, non-university education programs – community college, continuing education studies etc. – do not normally qualify to exempt an applicant from ELP requirements.
+* If English-language scores are required, the MScAC application is not complete until successful scores have been submitted.
+* Canadian citizens who studied at a Canadian university where the language of instruction is French are exempt from these requirements.
+Requirements Specific to Each Concentration
+Applied Mathematics Requirements
+* An appropriate bachelor’s degree from a recognized university in a related area such as applied mathematics, computational mathematics, computer science, mathematics, physics, statistics, or any discipline where there is a significant mathematical component.
+* The completed bachelor’s degree must include coursework in advanced and multivariate calculus (preferably analysis), linear algebra, and probability. There should also be a demonstrated capacity in programming and algorithms. In addition, there should be some depth in at least two of the following six areas:
+   * analysis (for example, measure and integration, harmonic analysis, functional analysis); 
+   * discrete math (for example, algebra, combinatorics, graph theory); 
+   * foundations (for example, complexity theory, set theory, logic, model theory); 
+   * geometry and topology; 
+   * numerical analysis; and 
+   * ordinary and partial differential equations.
+* Applicants must satisfy the admissions committee of their ability to be successful in graduate courses in computer science and mathematics, and in an industrial internship in applied mathematics. Applicants should be able to demonstrate a potential to conduct and communicate applied research at the intersection of computer science, mathematics, and a domain area. Applicants may be asked to do a technical interview as part of the application process.
+* Three letters of reference from faculty and/or employers, with preference for at least one such letter from a faculty member in Mathematics or Applied Mathematics.
+* Applicants must indicate a preference for the concentration in Applied Mathematics in their application. Admission is competitive, and students who are admitted to the MScAC program are not automatically admitted to this concentration upon request. 
+Artificial Intelligence Requirements
+* An appropriate bachelor’s degree from a recognized university in a related area such as physics, computer science, mathematics, statistics, engineering, or any discipline where there is a significant quantitative component.
+* The completed bachelor’s degree must include significant exposure to computer science or statistics or engineering including coursework in advanced and multivariate calculus (preferably analysis), linear algebra, probability and statistics, programming languages, and general computational methods.
+* It is preferred that applicants have completed relevant senior-level coursework, research, or have industry experience related to the field of Artificial Intelligence.
+* Three letters of reference from faculty and/or employers, with preference for at least one such letter from a faculty member in Artificial Intelligence.
+* Applicants must indicate a preference for the concentration in Artificial Intelligence in their application. Admission is competitive, and students who are admitted to the MScAC program are not automatically admitted to this concentration upon request.
+Artificial Intelligence in Healthcare Requirements
+* An appropriate bachelor’s degree from a recognized university in a related area such as Life Sciences, Biochemistry, Medical Sciences, Computer Science, Biotechnology, Biostatistics, Engineering, or related disciplines.
+* Background academic preparation to be successful in graduate level AI in Healthcare program would include undergraduate courses in the following areas:
+   * Programming (proficiency in programming equivalent to a second year CS Software Engineering course that includes experience with software design), active proficiency programming in Python achieved through coursework and/or experience). The reason for this requirement is the necessity to have programming skills to be able to take AI courses and later code AI approaches and use appropriate packages during the internship. Bridging opportunities are being developed by the MScAC program as well.
+   * Calculus (equivalent to MAT135H1)
+   * Statistics (equivalent of STA220H1 or STA288H1 or higher)
+   * Linear Algebra (equivalent of MAT223H1 or higher)
+   * Healthcare or a life science course (e.g., equivalent of BIO230H1 or higher) is a plus
+* Applicants must satisfy the Admissions Committee of their ability to be successful in graduate courses in AI and an internship in healthcare. Exceptional applicants who may lack the precise background above may be asked to participate in a rigorous technical interview as part of the admissions process. The decision to conduct the technical interview will be made by the admissions committee based on the application materials submitted by the applicant.
+* Three letters of reference from faculty and/or employers, with preference for at least one such letter from a faculty member in biology or data science.
+* The admissions committee may grant conditional admission to applicants who are otherwise qualified but lack the appropriate background pending satisfactory completion of specific coursework as judged by the admissions committee before the start of the program.
+* The program will consider admitting candidates without an undergraduate degree in Computer Science, Statistics, Life Sciences, or a related field, but who show a demonstrated aptitude demonstrated aptitude to excel in the fields pertaining to medicine and healthcare. Such applicants should demonstrate a potential to conduct and communicate applied research at the intersection of computer science, statistics, and life sciences.
+* Applicants must indicate a preference for the concentration in Artificial Intelligence in Healthcare in their application. Admission is competitive, and students who are admitted to the MScAC program are not automatically admitted to this concentration upon request.
+Computer Science Requirements
+* An appropriate bachelor’s degree from a recognized university in Computer Science or a related discipline.
+* In general, you must show knowledge equivalent to at least three senior level computer science courses. Ideally, these should be as follows:
+   * Algorithms and Complexity (e.g.,CSC373H)
+   * Operating Systems (e.g.,CSC369H)
+   * Database Systems (e.g.,CSC343H)
+* Three letters of reference from faculty and/or employers, with preference for at least one such letter from a faculty member in Computer Science.
+* Applicants must indicate a preference for the concentration in Computer Science in their application. Admission is competitive, and students who are admitted to the MScAC program are not automatically admitted to this concentration upon request.
+Data Science Requirements
+* An appropriate bachelor’s degree from a recognized university in a related area such as statistics, computer science, mathematics, or any discipline where there is a significant quantitative component.
+* The program will consider admitting candidates without an undergraduate degree in computer science, statistics, or a related field, but who show a demonstrated aptitude to be an excellent data scientist. Applicants should be able to demonstrate a potential to conduct and communicate applied research at the intersection of computer science, statistics, and a domain area. Background academic preparation to be successful in graduate-level computer science and statistics courses typically, though not always, includes intermediate or advanced undergraduate courses in the following topics: 
+   * Algorithms and Complexity, Database Systems, or Operating Systems. 
+   * Statistical Theory/Mathematical Statistics, Probability Theory, or Regression Analysis.
+* Applicants must satisfy the admissions committee of their ability to be successful in graduate courses in computer science, statistics, and an industrial internship in data science. Applicants may be asked to do a technical interview as part of the application process.
+* Students who are otherwise qualified but lack the appropriate background may be granted conditional admission, pending successful completion of additional background material as judged by the admissions committee.
+* Three letters of support from faculty and/or employers with preference for at least one such letter from a faculty member in Computer Science/Statistical Sciences.
+* Applicants must indicate a preference for the concentration in Data Science in their application. Admission is competitive, and students who are admitted to the MScAC program are not automatically admitted to this concentration upon request.
+Quantum Computing Requirements
+* An appropriate bachelor’s degree from a recognized university in a related area such as physics, computer science, mathematics, or any discipline where there is a significant quantitative component.
+* The completed bachelor’s degree must include significant exposure to physics, computer science, and mathematics, including coursework in advanced quantum mechanics, multivariate calculus, linear algebra, probability and statistics, programming languages, and computational methods.
+* Three letters of reference from faculty and/or employers, with preference for at least one such letter from a faculty member in Physics.
+* Applicants must indicate a preference for the concentration in Quantum Computing in their application. Admission is competitive, and students who are admitted to the MScAC program are not automatically admitted to this concentration upon request.
+Data Science for Biology Requirements
+* A appropriate bachelor’s degree from a recognized university in a related field such as Life Sciences, Biochemistry, Medical Sciences, Computer Science, Biotechnology, Biostatistics, Engineering, or other related disciplines.
+* Background academic preparation to be successful in graduate level Computer Science, Statistics, and Cell and Systems Biology, Ecology and Evolutionary Biology, and Molecular Genomics courses typically including intermediate or advanced undergraduate courses in the following topics:
+   * Third-year Algorithms and Complexity (such as CSC373H1)
+   * Second-Year (or higher) level systems (such as CSC207H1: Software Design or equivalent, CSC209H1: Software Tools and Systems Programming or equivalent, CSCB58H3: Computer Organization or equivalent)
+   * At least one third-year or fourth-year biology course (with the appropriate prerequisites; courses with a molecular biology focus are recommended)
+   * Note that students meeting the admissions prerequisites must have courses in calculus, linear algebra, and probability/statistics
+* Applicants must satisfy the Admissions Committee of their ability to be successful in graduate courses in Computer Science, Statistics, Cell and Systems Biology, Ecology and Evolutionary Biology, Molecular Genomics, and an industrial research internship in Biological Data Science. Exceptional applicants who may lack the precise background above may be asked to participate in a rigorous technical interview as part of the admissions process. The decision to conduct the technical interview will be made by the admissions committee based on the application materials of the student.
+* Three letters of reference from faculty and/or employers, with preference for at least one such letter from a faculty member in biology or data science.
+* Students who are otherwise qualified but lack the appropriate background may be granted conditional admission, pending successful completion of additional background material as judged by the admissions committee.
+* The program will consider admitting candidates without an undergraduate degree in Computer Science, Statistics, Life Sciences, or a related field, but who show a demonstrated aptitude to be an excellent biological data scientist. Such applicants should demonstrate a potential to conduct and communicate applied research at the intersection of computer science, statistics, and life sciences.
+* Applicants must indicate a preference for the concentration in Data Science for Biology in their application. Admission is competitive, and students who are admitted to the MScAC program are not automatically admitted to this concentration upon request.

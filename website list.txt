@@ -1,0 +1,14 @@
+Website catalog
+
+1. MScAC Official Website: https://mscac.utoronto.ca/
+2. MScAC Application Portal: https://admissions.sgs.utoronto.ca/apply/
+3. Student Care Website: https://www.studentcare.ca/
+4. CS Course Timetable: https://web.cs.toronto.edu/graduate/timetable
+5. Statistics Course Timetable: https://www.statistics.utoronto.ca/graduate-timetable/current-upcoming-timetable
+6. MScAC Internal Internship Portal: https://mscac.cs.toronto.edu/internships
+7. Acorn Login: https://www.acorn.utoronto.ca/
+8. Quecus Website: https://q.utoronto.ca/
+9. Leetcode Practice: https://leetcode.com/problemset/
+10. UofT Library Website: https://onesearch.library.utoronto.ca/
+11. Career & Co-Corricular Learning Network: https://clnx.utoronto.ca/notLoggedIn.htm
+12. Mental Health Service at UofT: https://studentlife.utoronto.ca/service/mental-health-clinical-services/

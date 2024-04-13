@@ -1,0 +1,214 @@
+﻿2023 MScAC Internship Expo Industry Partners
+
+
+List of Industry Partners names:
+* Adobe
+* Agnostiq
+* AMD
+* BAM (Balyasny Asset Management)
+* BlueDot
+* Bluekey AI
+* CAMH (Center for Addiction and Mental Health)
+* BRAIN-To Lab (UHN)
+* CentML
+* Queen’s University
+* CMG
+* Conflux
+* CPP Investment
+* Ecomtent
+* Eli Lilly Canada
+* Emotiv
+* Geotab
+* Hamilton Health Sciences (HHS)
+* Huawei
+* ICIC Bank
+* Immersion
+* Insitro
+* Intuit
+* Jina AI
+* J-Squared
+* Kaleidoscope
+* Kindred
+* Layer6
+* Lean Industries
+* MDA
+* Modiface
+* NerveX Neurotechnologies
+* Neuvote
+* Next Pathway
+* Nvidia
+* Ontario Institute for Cancer Research (OICR)
+* Ontario Power Generation (OPG)
+* Optimal Innovation Group
+* Pontosense
+* Princess Margaret (UHN)
+* Q2
+* RoboEye.ai
+* Roche
+* Samsung
+* Scotiabank
+* Signal 1
+* SickKids
+* SOTI
+* Thomson Reuters
+* Trusting Pixels
+* Unilever
+* University of Toronto Schools
+* Xanadu
+
+Details about these companies:
+Adobe: An ideal balance of academic discovery and industry impact: that’s what drives our groundbreaking work at Adobe Research. Our collaborative projects advance the state of the art across a range of 12 research areas. Many of Adobe Research’s early-stage technologies become important elements of Adobe’s products, used by millions across the globe.
+
+
+Agnostiq:Agnostiq is the team behind Covalent, an open source distributed computing platform built for AI, HPC and quantum computing.
+
+
+AMD: AMD is the high performance and adaptive computing leader, powering the products and services that help solve the world’s most important challenges. Our technologies advance the future of the data center, embedded, gaming and PC markets.
+
+
+BAM(Balyasny asset management): Data and technology are deeply embedded in our investment process, helping our global investment teams identify trends, uncover new insights, navigate volatility and capture market opportunities that others miss. Our teams of software engineers and data scientists work beyond technology’s leading edge, leveraging the latest solutions in machine learning, big data, cloud computing and more. Our technology teams build robust tools and systems that provide our investment professionals with critical information to drive our business forward.
+
+
+BlueDot: BlueDot provides infectious disease intelligence that empowers enterprise organizations and governments to rapidly detect, understand, and respond to infectious disease threats, and ultimately strengthen readiness and resilience. Our insights are fueled by combining the power of machine learning and AI with human expertise. And we track hundreds of infectious diseases and syndromes worldwide, anticipating global spread and impact.
+
+
+Bluekey AI: Bluekey AI is B2C EdTech consulting company that helps college students prevents dropout and enhances academic achievement through data-driven personalized assessments and ongoing advisory services.
+
+
+CAMH(Center for addiction and mental health): The overarching objective of my research program, titled “B.R.A.I.N.: Behavioral Research Using Artificial Intelligence Networks”, is to integrate and analyze high-dimensional, multi-modal behavioral (e.g., sleep, activity), physiological (e.g., heart rate variability, HRV), and subjective data using wearable devices, nonlinear analyses and machine learning techniques to extract and interpret individual illness trajectories
+
+
+BRAIN-To Lab(UHN): BRAIN-To Lab is a multi-disciplinary group of physicists, computer scientists, engineers and neuroscientists at the Krembil Brain Institute, University Health Network, focused on advancing cognitive and clinical neuroscience using MRI. The lab’s research has three major foci: fundamental MRI methods development, clinical applications of advanced MRI and Cognitive Neuroscience.
+
+
+CentML: At CentML, we care deeply about fixing inefficiencies in the Machine Learning space that are costing companies a lot of money. At the heart of everything we do at CentML is to help everyone see it, measure it, and address it.
+
+
+Queen’s University: We study the associations between key components in the epigenome to understand how its perturbation can lead to cancer. Our team works to identify factors contributing to cancer mutation occurrence in DNA, to discover molecular mechanisms of how mutations and covalent modifications affect nucleosomes and chromatin, their interactions, stability and dynamics. We apply and design computational methods that integrate hypothesis- and data- driven approaches, including machine learning/deep learning, molecular modeling and molecular dynamics simulations.
+
+
+CMG: We are a global software and consulting company that combines science and technology with deep industry expertise to solve complex subsurface and surface challenges for the new energy industry around the world.
+
+
+Conflux: Through blockchain and other emerging technologies, the path to globalization and connectivity is accelerating— yet barriers still exist. For every barrier, there is a catalyst for a new kind of connectivity. Conflux Network is that catalyst. As the only regulatory compliant, public, and permissionless blockchain in China, Conflux is building a borderless transactional and technological ecosystem for globally-minded crypto projects, extending beyond China to North America, Russia, Latin America, Europe, Africa, and the rest of the world.
+
+
+CPP Investment: CPP Investments is a professional investment management organization with a vital purpose: to help provide a foundation on which Canadians build financial security in retirement. To help maximize the CPP Fund for generations to come, we invest across all major asset classes: public equities, private equities, real estate, infrastructure and fixed income instruments.
+
+
+Ecomtent: Ecomtent automates product listing optimization through generating highly converting infographics, titles and descriptions at scale.
+
+
+Eli Lilly Canada: no details, refer to the website: https://www.lilly.com/en-CA/
+
+
+Emotiv: Mobile EEG Headsets — Empowering individuals to understand their own brain & accelerate brain research globally. Gain accurate insights into your cognitive and emotional states in real-time through EEG.
+
+
+Geotab: Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab’s open platform and Marketplace allow both small and large businesses to automate operations by integrating vehicle data with their other data assets.
+
+
+Hamilton Health Sciences (HHS):  HHS is a leading healthcare system in Ontario, Canada, serving a diverse population. The Centre for Data Science and Digital Health (CREATE) was founded to accelerate digital health and artificial intelligence innovation within Ontario’s health care system. CREATE partners with clinician scientists, innovators, and Canadian startups to develop digital health applications levering AI/ML technologies.
+
+
+Huawei: Scientific exploration and technological innovation drive civilization and society forward. Huawei understands the importance of research and innovation and how openness is critical for both. We are ready and willing to work with academia and industry to explore the frontiers of science and technology, push innovation forward, create value for industry and society as a whole, and build a better intelligent world.
+
+
+ICIC Bank: ICICI Bank offers a wide range of banking products and financial services to corporate and retail customers through a variety of delivery channels and through its group companies.
+
+
+Immersion: Using the smartwatches that people already wear, you can turn your audience into a real-time neuroscience panel that returns actionable insight in minutes.
+
+
+Insitro: At Insitro, we are building a different kind of drug company to bring better drugs faster to the patients who can benefit most. Through the power of machine learning (ML) and data at scale, we decode the complexities of biology to unlock transformative new medicines.
+
+
+Intuit: Serving more than 100 million customers worldwide with TurboTax, QuickBooks, Mint, Credit Karma and Mailchimp, Intuit helps put more money in consumers’ and small businesses’ pockets, saving them time by eliminating work, and ensuring they have confidence in every financial decision they make.
+
+
+Jina AI: Founded in 2020 and based in Berlin, Germany, Jina AI has swiftly risen as a leader in multimodal AI, focusing on prompt and embedding techniques.
+
+
+J-Squared: J-Squared has over 30 years of experience exceeding operationally demanding performance environments and serving a broad base of markets including industrial, transportation, medical, communications and military. This foundation, combined with our focus on continuous improvement and exemplary customer service, has resulted in extensive success across multiple industries and markets. Our high level of standards and certifications, internal improvement strategies and external acquisitions methodologies are guided by our core principle to exceed customer expectations.
+
+
+Kaleidoscope: Kaleidoscope is building software to make Life Science R&D more collaborative, reproducible, and scalable. Our platform is used by biotechnology research teams to track their most critical decisions, milestones, and data, which otherwise sit disconnected and siloed from each other. With Kaleidoscope, teams can collate their different data streams and easily manage their numerous projects all in one spot. We make sure that the data is always up to date and synced across all sources, and we give teams an extremely intuitive interface to visualize and interact with that data. We raised a $6M Seed round from some of the top investors in the tech-meets-bio industry and are working with a variety of cutting-edge therapeutics customer companies. Our team has previously successfully built several products and engineering systems from the ground up, some of which have been used worldwide by tens of millions of monthly users.
+
+
+Kindred: Founded in 2014, Kindred is a robotics and artificial intelligence (AI) company that develops robots to solve real-world problems. Its mission is to enhance the lives of human workers with the power of AI robotics. Kindred’s cutting-edge technology is the foundation of a number of proprietary platforms, including CORE with AutoGrasp™, developed to operate robots autonomously in dynamic environments.
+
+
+Layer6: We develop industry leading machine learning systems. Our initiatives have the power to uplift large populations, while advancing the field of artificial intelligence.
+
+
+Lean Industries: Our team includes experienced dispute operations managers and payment solution experts, giving us a unique ability to understand your operation and identify areas of improvement. Through AdjustmentHub, we can tailor a solution that overcomes the challenges you face by introducing quality, compliance, productivity, efficiency and financial controls in your dispute operations.
+
+
+MDA: MDA is an international space mission partner and a robotics, satellite systems and geointelligence pioneer with a 50-year story of firsts on and above the Earth. Today, we're leading the charge towards viable Moon colonies, enhanced Earth observation, communication in a hyper-connected world, and more. Together with our many intrepid partners, we're working to change our world for the better, on the ground and in the stars.
+
+
+Modiface: Since 2007, ModiFace has been the leading creator of augmented reality technology for the beauty industry. Our nail, hair, and makeup virtual try-on, as well as our AI-powered skin diagnostics provide best-in-class AR capabilities that are used by nearly a billion consumers around the world.
+
+
+NerveX Neurotechnologies: NerveX develops intelligent neuromodulation devices to repair and augment the nervous system.
+
+
+Neuvote: Neuvote is a technology company committed to providing innovative and secure election management solutions. Our founder, Matthew Heuman, has a passion for democracy and a vision to create a world where everyone has equal access to free and fair elections. With our state-of-the-art platform and our commitment to partnership, we are confident that we can make a difference in the world of election management.
+
+
+Next Pathway: We automate the end to end challenges our customers face when migrating applications to the cloud
+
+
+Nvidia: NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society.
+
+
+Ontario Institute for Cancer Research (OICR): The Ontario Institute for Cancer Research (OICR) is a collaborative research institute that conducts and enables high-impact translational cancer research. We help to accelerate the development of discoveries for patients around the world while maximizing the economic benefit of this research for the people of Ontario.
+
+
+Ontario Power Generation (OPG): Ontario Power Generation (OPG) is proud to be one of the largest, most diverse power producers in North America.
+We invest millions in local economies and employ thousands of people to maintain a modern, sophisticated energy fleet. And we partner with local, environmental, and Indigenous groups to improve the well-being of our site communities.
+
+
+Optimal Innovation Group: Optimal Innovation Group Inc. was originally formed in 2012 under the name Optimal Science Consulting Inc., but our objectives remain the same: helping small and mid-sized tech companies get the expert advising and decision-making support they need to access the market and accelerate business growth through innovation.
+
+
+Pontosense: Pontosense was founded with a mission to fundamentally change everyday technology by expanding the relationship between humans and machines. Our passion for innovation has pushed the boundaries of wireless sensing further than ever, leading to global partnerships and applications across several industries, including mobility, AgeTech, and smart homes.
+
+
+Princess Margaret(UHN): Through ongoing research, education and innovation, Princess Margaret continues to be on the frontiers of medical, surgical and radiation oncology, embracing the latest technology and international best practices and setting standards for patient care.
+
+
+Q2: Q2 creates simple, smart, end-to-end banking and lending experiences that make you an indispensable partner on your customers' financial journeys.
+
+
+RoboEye.ai: RoboEye.ai is a high-tech company dedicated to empowering China's manufacturing industry through R&D and innovation of AI 3D vision technology
+
+
+Roche: Roche has grown into one of the world’s largest biotech companies, as well as a leading provider of in-vitro diagnostics and a global supplier of transformative innovative solutions across major disease areas. Our commitment to our people, partners, stakeholders and, most importantly, our patients remains as strong as it was on the first day of our journey.
+
+
+Samsung: We need new AI developed at Samsung Research to provide a beneficial customer experience for all our billions of Samsung users and devices. AI needs to be better aware of what is happening when our customers use our devices and to anticipate and respond their needs. In order to do this, we are researching and developing an “Among-Device AI” that allows for a seamless and shared experience across the myriad of Samsung devices.
+
+
+Scotiabank: We serve thousands of customers, families, and communities across the globe, helping them achieve success through advice, products, and services. Follow for news, insights, thought leadership and more.
+
+
+Signal 1: Hospitals today face unprecedented challenges. Surgical backlogs. Staffing shortages. Value for money. Signal 1’s AI platform helps hospitals tackle these by integrating AI-driven insights directly into existing workflows, delivering improved patient outcomes, enhanced hospital efficiency and reduced stress for front-line workers.
+
+
+SOTI: SOTI is a proven leader at creating innovative solutions that reduce the cost and complexity of business-critical mobility and the IoT. Thousands of companies around the world depend on us to secure, manage and support their mobile operations. SOTI’s two decades of success has built strong partnerships with leading mobile platform providers and device manufacturers.
+
+
+Thomson Reuters: Thomson Reuters leads at the intersection of content and technology with trusted data, workflow automation, and AI
+
+
+Trusting Pixels: Our mission is to promote an honest representation of people in media by authenticating content that is in line with our retouching regulations. All authenticated content openly discloses what is not retouched on a persons body (i.e. body shape, hair, makeup...etc.). Our platform allows our clients to label and host content in our gallery as verification that their content is honest and authentic.
+
+
+Unilever: Established over 100 years ago, we are one of the world’s largest consumer goods companies. We are known for our great brands and our belief that doing business the right way drives superior performance.
+
+
+University of Toronto Schools (UTS): The University of Toronto Schools (UTS) is located in downtown Toronto at 371 Bloor Street West. It is an independent school that has a formal affiliation agreement with the University of Toronto, but operates as a separate non-profit organization. UTS has over 600 students in Grades 7 through 12, and 65 teachers. There are also more than 60 staff, that includes an IT team, guidance counselors, a full-time nurse, social workers, among others. UTS is also home to the Eureka Research Institute, which supports a variety of external and internal research and development projects.
+
+
+Xanadu: Xanadu Quantum Technologies Inc. is a Canadian quantum technology company, and one of the world's leading photonic quantum hardware providers.

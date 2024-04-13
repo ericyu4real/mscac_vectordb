@@ -1,0 +1,3 @@
+Eric Y. led the design and deployment of MScAC chatbot, he's also responsible for the backend side. And Kai Z. is our seasoned front-end developer, without him, we won't have this beautiful website.
+
+This project is sponsored by MScAC. Special thanks to Claire and Arvind for their support.

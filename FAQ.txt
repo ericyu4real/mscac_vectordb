@@ -1,0 +1,295 @@
+FAQ Topics
+
+1. About the MScAC Program
+Q: What is the difference between the MSc in Applied Computing (MScAC) and the MSc in Computer Science (research stream) program?
+A: Applicants who wish to explore how state-of-the-art research can be applied in a real-world setting should consider applying to the MScAC program. In lieu of a thesis, the MScAC requires students to complete a mandatory applied research internship in an industrial setting. This provides students with the opportunity to experience industrial Research and Development (R&D) and gain immediate access to top R&D groups across an array of industries. Many MScAC graduates are now working in an industry-based R&D role with some students going on to do a PhD.
+
+Applicants who wish to produce original research in the field of computer science should consider applying to one of the research programs in the Department of Computer Science. These are suited to those students who are thinking about pursuing a career in academia although some end up working in industry.
+
+The MSc in Computer Science and MScAC programs have a similar structure: students in both programs must pass four (4) graduate half-courses as part of the degree. Students in both programs have access to the same schedule. MScAC students must complete an additional two (2) graduate courses in professional skills, an eight-month applied research internship, and conclude the program by submitting a final report detailing their contributions during the internship. MSc students must submit a major research paper.
+
+Q:What is unique about the MScAC program?
+A:Traditionally, graduate studies in computer science and related fields are either research-intensive programs (MSc program) or course-based (sometimes referred to as a professional program).
+
+The MScAC program takes a unique approach. The thesis requirement from the MSc program is replaced with an applied research internship. There is emphasis on identifying novel opportunities for the internship across a range of industries to satisfy the interests of students.
+
+Some students have developed novel research and published research papers at top tier conferences (Computer Vision and Pattern Recognition Conference, Association for Computational Linguistics) based on their internships.
+
+Q:Do you offer a PhD in Applied Computing?
+A:No. However, students can apply for the regular PhD program upon completion of the MScAC.
+
+Q:Can I go on to the PhD program from the MScAC?
+A:The MScAC is not a terminal degree and will fulfil the minimum entry requirements for the PhD program.
+
+Q:Do you offer distance education for the MScAC?
+A:The MScAC is offered on an in-person “attending” basis only.
+
+Q:What is the program format?
+A:The MScAC program is a 16-month (four semesters) applied research program. It combines eight months of advanced technical graduate courses with an eight-month applied research internship in industry.
+
+Visit the program timeline page for more information: https://uoftmscac.wpenginepowered.com/prospective-students/
+
+Q:Can I drop to part-time in the MScAC?
+A:No, the MScAC is offered only on a full-time basis only.
+
+Q:What is the academic environment for MScAC students like?
+A:The MScAC program provides students with an exciting academic experience. MScAC students learn from world-class faculty across top-tier departments at the University. The academic workload in the program is designed for students wishing to explore the state-of-the-art more thoroughly. Students should be prepared for a heavy workload where they will be challenged.
+
+In addition to the academic and professional training delivered during the first eight months (Semesters 1 & 2), MScAC students will be preparing for the internship phase of the program. Students are expected to interview with companies over this period – the highest volume internship-finding activities are in the Winter semester.
+
+The program is based on a cohort-model, so all students in the program are expected to meet the program milestones at the same time.
+
+2. Admissions - General
+Q:What is the application deadline?
+A:Usually, MScAC admissions open in early October and close in early December. Dates are published on the website in late September.
+
+Q:How is my application processed?
+A:Most applications are reviewed once the admissions deadline has passed. For further details of the application process, please review the Application Process page.
+
+Q:Is there a January admission round?
+A:No, students are only offered a September-entry round of admission.
+
+Q:If I have not yet finished my qualifying degree, can I still apply?
+A:Yes. Students who have not yet completed their bachelor’s degree (or master’s degree, if applicable) at the time of application to the MScAC program, should request transcripts from their university showing the work completed to date. Applicants should include any courses not listed on the transcript that are going to be completed in subsequent semesters, and when the results will be available.
+
+If an offer of admission is received, it will be based on the coursework to date. Degree requirements must be completed before August 31. Final transcripts, which include the degree and the date it was awarded, should be sent to the MScAC program.
+
+Q:Do I need to send hard copies of my paper transcripts?
+A:At the application stage, applicants should upload unofficial electronic scans or summaries of their transcript(s). If an offer of admission is made, official transcripts (paper or electronic sent directly from the issuing institution) will be formally requested. Note that all offers of admission are conditional upon receiving and authenticating official transcripts and degree(s).
+
+Q:Do I still need to submit a transcript if I graduated from the University of Toronto?
+A:U of T graduates are not required to purchase an official transcript of their academic record at this institution.
+
+Applicants who completed part of their studies at a different institution are required to provide transcripts. This includes transcripts from exchange semesters abroad.
+
+Q:Can I apply for the MScAC if my bachelor’s degree is not in Computer Science? What academic backgrounds do successful applicants usually have?
+A:It is possible to apply to the program with a bachelor’s degree in a discipline other than computer science. In the past, applicants with degrees in related disciplines such as mathematical sciences or engineering were accepted. Each concentration has specific requirements for computer science proficiency, so applicants are encouraged to review the Entry Requirements page before applying. Applicants may review the Admitted Student Profiles to see which academic backgrounds students have been drawn from in the past.
+
+Q:My marks do not meet the stated requirements, but I have industry experience. Is this acceptable?
+A:The department’s minimum academic requirement is a B+ average achieved in the final year of full-time study (the equivalent of 5 full credits). The program is highly competitive (only 5-10% of applicants are admitted each year) and in recent years, students admitted to the program have shown considerably greater proficiency than the minimum requirements.
+
+Work experience is preferred but not accepted as a substitute for academic qualifications.
+
+Q:My marks do not meet the stated requirements. How can I upgrade my prerequisite courses?
+A:In previous years, applicants wishing to strengthen their application have considered taking senior level undergraduate courses. Applicants wishing to follow this route at the University of Toronto should be advised that the process for enrolling into undergraduate Computer Science courses is complex. Advice can be sought from the Undergraduate Program office at cs.undergrad@utoronto.ca.
+
+It is important to note that grades alone do not guarantee admission.
+
+Note: The original undergraduate degree (i.e. the qualifying degree) is the qualification on which the final year GPA calculation is based.  While courses completed in subsequent qualifications will be considered, those grades will not be included in the GPA calculation.
+
+Q:Can I transfer credits from my previous graduate program to the MScAC program?
+A:Students in the MScAC program must complete four (4) technical graduate half-courses and two mandatory half-courses. You may be able to obtain transfer credit for graduate courses completed but not counted towards the requirements of another academic qualification.
+
+MScAC students can only apply for transfer credits post-admission. The Associate Chair of Graduate Studies and Academic Director, Professional Programs will evaluate these requests.
+
+Q:What should I include in essay questions?
+A:For further details, please review the Application Process page: https://mscac.utoronto.ca/apply/application-process
+
+Q:Can I apply to both the MSc in Computer Science and MScAC?
+A:Yes. Please note that the two programs have separate application forms, and payment of the application fee is required for both.
+
+Q:If I apply to both the MSc in Computer Science and the MScAC, do I need to submit different referee letters?
+A:While applicants can use the same referees for both applications, given the difference between the two programs, it would be advisable to outline the structure and intent of both programs to the intended referees before requesting they submit the references. They may wish to tailor their references to the specific programs.
+
+References cannot be transferred between applications.
+
+Q:When will I hear the decision about my application?
+A:Admissions decisions are made on a rolling basis, meaning there is no fixed date on which decisions are announced. Applicants normally hear by mid-April.
+
+Q:What is the acceptance rate of applicants?
+A:Currently, 5-10% of MScAC program applicants are admitted each year.
+
+Q:My referee does not have an institutional e-mail address. How can they provide a reference?
+A:The application form will accept “free” e-mail addresses such as from Hotmail, Gmail, etc. If a referee is using a “free” e-mail address, please include details of their professional profile, such as a faculty/LinkedIn page, in the “Additional Information” section of the application form.
+
+Q:Can I use a non-academic (professional) reference?
+A:The MScAC admissions committee prefers two of the references used be academic i.e., from people that have taught/supervised an applicant in an educational institution. However, given the nature of the program, it is entirely appropriate for applicants to use referees who have an industry background and been in a senior capacity during co-ops, internships or full-time work experience.
+
+Q:It has been several years since I completed my undergraduate degree. Can I apply as a mature student?
+A:Yes. Several mature students have been successful in their applications to the MScAC program. Their experience is considered an asset within the MScAC cohort.
+
+3. Admissions — Canadian & US Applicants
+Q:I have a three-year bachelor's degree from a North American university. Will I qualify for the MScAC program?
+A:An applicant’s eligibility cannot be determined until a complete application is submitted, but in general:
+
+Students from Quebec will qualify with a two-year CEGEP and a three-year bachelor’s degree.
+
+Applicants with a three-year bachelor’s degree from a North American university likely do not have the depth of knowledge in computer science that the MScAC program requires. Applicants should see if their home institution offers an option to upgrade a three-year degree to a four-year degree by completing additional studies.
+
+Q:I have a four-year bachelor's degree from an Ontario community college. Will it be acceptable?
+A:Maybe.
+
+In addition to the University’s minimum admission requirements, several factors are taken into consideration while assessing college degrees: the level of affinity between the degree and the MScAC program requirements; the academic content of third- and fourth-year courses; and other indicators that an applicant is prepared for the MScAC program.
+
+4. Admissions — Overseas Applicants
+Q:Can I apply with a qualification from an overseas institution?
+A:The department accepts applications from around the world and can accept qualifications gained from overseas institutions. For information on degree and grade equivalencies, please use the University’s International Degree Equivalencies Tool.
+
+Q:I have a three-year Bologna-compliant (or an equivalent) degree. Is this acceptable?
+A:Yes. Applicants with three-year Bologna-compliant bachelor’s degree, or a three-year UK degree preceded by the GCE A-levels, are encouraged to apply.
+
+In addition to the University’s minimum admission requirements, several factors are taken into consideration while assessing degrees: requirements for gaining admission to the degree, content of the degree, duration of the degree, and more.
+
+Eligibility cannot be determined until a complete application is submitted.
+
+5. Test Scores: Graduate Record Examination (GRE)
+Q:Do I need to send GRE scores?
+A:Applicants who have not previously gained (or are about to gain) a degree from a Canadian university are encouraged to submit GRE test scores. Scores are not mandatory to provide and will not be taken as a substitute where academic grades do not meet the eligibility requirements. However, good scores strengthen applications. Serious applicants from outside Canada are assumed to have taken the GREs and have scores to submit. Average scores are within the 80th percentile for Verbal (158+) and 95th percentile for Quantitative (168+).
+
+It is not mandatory for applicants with degrees from Canadian institutions to provide GRE scores; however, if they have been obtained applicants are welcome to do so.
+
+Applicants reporting test scores in their application, should arrange to have the official scores sent electronically to the University of Toronto.
+
+Q:What are the institution and department codes for the GRE test?
+A:Institution code: 0982
+
+Department code: 0402
+
+Q:How recent must my GRE results be?
+A:GRE scores are valid for 5 years, from the date of being issued.
+
+Q:Will you consider a Graduate Management Admission Test (GMAT) score?
+A:No. GRE results are preferred.
+
+6. English Language Proficiency (ELP) Testing
+Q:Do I need to send English test scores?
+A:The admitting degree for the MScAC program is the qualification considered equivalent to a University of Toronto four-year undergraduate degree. The admitting degree is what the requirement for ELP tests is based on.
+
+Requirements for proof of English Language Proficiency:
+
+If the undergraduate degree was earned at a university where the language of instruction and examination is not English, an acceptable ELP Test must be passed.
+If the undergraduate degree was earned at a university where the language of instruction and examination was uniformly English, an applicant may be exempt. However, a letter confirming the language of instruction and examination may still be required and must be provided by the applicant’s home institution.
+If a degree was earned in a program split between two institutions, where one of the institution’s languages of instruction and examination was not uniformly English, language scores must be provided.
+Other, non-university education programs – community college, continuing education studies etc. – do not normally qualify to exempt an applicant from ELP requirements.
+
+If English-language scores are required, the MScAC application is not complete until successful scores have been submitted.
+
+Q:What English test scores do I need to achieve?
+A:Applicants must achieve the English test scores outlined by the School of Graduate Studies (SGS). A higher minimum score is not required. Common tests applicants provide are International English Language Testing System (IELTS) Academic and Test of English as a Foreign Language (TOEFL).
+
+Q:What are the institution and department codes for the Test of English as a Foreign Language (TOEFL) test?
+A:Institution code: 0982
+
+Department code: 78
+
+Q:How recent must my English Language Proficiency test results be?
+A:Scores are valid for two years from the test date. Scores must be valid at the time of application for admission to graduate studies. Scores more than two years old cannot be verified and the applicant will be required to re-take an ELP test.
+
+Q:When are my English Language Proficiency scores due?
+A:Scores may be added to an application even after the deadline (applications are processed on the assumption that satisfactory scores can be obtained), but no offer will be made (including a conditional offer) until official notice of the scores is received.
+
+Q:What if one section of my English Language Proficiency test score falls below the minimum requirements? Will I still be considered?
+A:Yes. The program considers other academic qualifications, essay questions, and references, rather than basing a rejection on one element of the application. It is up to an applicant whether an application is submitted with the test scores already obtained. Applications are viewed on a case-by-case basis by the Admissions Committee.
+
+7. Newly Admitted Students
+Q:Can I defer my offer of admission?
+A:Deferrals are granted at the discretion of the Chair of the Admissions Committee, in line with the deferral policy applicable to the respective admissions cycle. Deferrals are usually only permitted once and are valid until the following academic year.
+
+Q:International students: What are the immigration requirements for coming to study in Canada?
+A:International students in the MScAC program require a study permit for the full 16 months of the program. To be eligible for a study permit, certain immigration requirements must be satisfied. These include proof of:
+
+Acceptance by the University of Toronto to the MScAC program
+Adequate funds for tuition fees, living expenses, etc.
+Medical clearance
+Admitted students should begin the visa application process once an offer of admission and the welcome letters for the MScAC program are received. Processing times vary across visa offices.
+
+Details of how to apply for a study permit can be found on the Immigration, Refugees and Citizenship Canada.
+
+Note: MScAC students are also required to be in possession of a work permit that allows them to work full-time during their eight-month internship. For further information regarding the study permit and the work permit, please consult U of T’s Centre for International Experience website.
+
+Q:International students: What kind of visa or permit do I need?
+A:International MScAC students are required to have the following:
+
+A study permit valid for the duration of the program
+A separate work permit (usually termed the “co-op work permit”) that will allow full-time work during the internship in the second eight months of the program.
+
+Some students may also be required to obtain an entry visa to enter Canada, subject to the country-specific requirements.
+
+The work permit can be applied for at the same time as the study permit and will usually be issued, along with the study permit, at immigration on arrival in Canada. If the work permit is not issued at immigration, students can make a subsequent application once in Canada.
+
+Students are permitted to accept employment either on- or off-campus for a co-op, internship or professional experience. To be eligible for the internship work permit, students must:
+
+Have a valid study permit
+Obtain a letter from the MScAC program indicating that employment is an integral part of the program (this information is contained in the offer package)
+
+For this type of work permit, the University of Toronto will be listed as the employer and the expiry date should match the one on the study permit. The co-op work permit is fee-exempt, so no processing fee is required.
+
+Q:Can my spouse qualify for a work permit while I’m studying at U of T?
+A:Once the study permit has been granted, spouses or common-law partners may apply for a work permit. The work permit will be valid for the same period as the study permit, and no job offer is required to apply for this. More information on work permits for spouses and common-law partners can be found on the Immigration, Refugees and Citizenship Canada website.
+
+Q:Will I attend a program Orientation?
+A:Yes. In late August, the MScAC program, collaborating departments, and the School of Graduate Studies (SGS) have Orientation events that students are expected to attend.
+
+8. Courses
+Q:How do I select my courses?
+A:Students are required to take certain courses depending on the concentration they have been admitted into. Visit each specific concentration page for a list of course enrolment requirements.
+
+Q:Can I take courses from other departments?
+A:Courses from departments alternative to those stipulated in the concentration requirements may be substituted in (and counted) towards the concentration course requirements. This is subject to Program Director and concentration lead approval.
+
+Q:Can you help guide me in terms of my interests/course of study?
+A:Yes. Guidance and support is provided to MScAC students throughout the program, from issues around course selection, to interview training, to facilitating the internship search.
+
+Q:How will the courses I take help in my internship selection?
+A:Courses and internship selection will depend on a student’s individual interests and strengths. If the aim is to gain an internship and pursue a career in a particular area, then related courses should be selected. Most organisations, including MScAC partner organisations, have many types of projects going on at a given time. For example, game development companies have software engineering projects, companies doing machine learning research have database management projects. Students are encouraged to attend the various program events hosted to assist with internship finding, including the MScAC Internship Expo. Students are encouraged to ask organisations if they have projects in an area of interest, even if they don’t mention it in their project description.
+
+Q:How many hours per week does the program entail?
+A:The MScAC is a full-time program and the number of hours per week during the first eight months is comparable with other graduate programs. Study time varies based on course selection and personal study habits. The internship is full-time employment, so students will be working 35 – 40 hours a week, depending on the company.
+
+9. Costs: Tuition, Living Expenses, Housing
+Q:How do I pay tuition fees?
+A:Students pay tuition fees at a Canadian bank using their account number, which can be found on the Student Accounts website.
+
+Q:What is the deadline to pay my tuition and fees?
+A:The deadline to pay/defer fees for the academic session is usually mid-September.
+
+Q:What is the cost of living in Toronto?
+A:U of T’s Fees & Costs page is a great source for details about living costs: https://future.utoronto.ca/finances/fees/
+
+Q:What housing options are available on- and off-campus?
+A:U of T Housing Services offers information, resources and support with all housing-related issues, both for on-campus and off-campus accommodation.
+
+10. Scholarships and Financial Aid
+Q:Which scholarships are available to MScAC students?
+A:MScAC students are not eligible for departmental funding. However, MScAC students are eligible for several provincial and University of Toronto scholarships. For a detailed list, please visit the School of Graduate Studies’ Scholarships and Awards page.
+
+Remuneration for the internship cannot be guaranteed, but to date students have successfully gained employment in paid internships that offset their tuition and fees.
+
+Q:What types of financial aid are available for MScAC students?
+A:Domestic students, can apply for the Ontario Student Assistance Program (OSAP).
+
+International students may be eligible to apply for scholarships offered by their home government or loans provided by international student loan companies such as Prodigy Finance.
+
+11. Supervisors
+Q:Since the MScAC program does not involve thesis work, does that mean there will be no supervisor for me during the program?
+A:All MScAC students are assigned an acting academic supervisor on admission (usually the Academic Director, Professional Programs and respective concentration lead) who guides them through the early stages of the program. Upon accepting an internship offer from a company, students are expected to find two new supervisors:
+
+An industry supervisor who is appointed by the company, to whom the student will report routinely.
+An academic supervisor with whom the student will collaborate to address the intellectual challenges of the research to be performed over the internship. This will usually be someone whose research and work aligns with the nature of the internship.
+It is beneficial, but not required, for the academic and industry supervisors to meet and establish an effective way to guide a students’ work during the internship.
+
+Q:How do I find an academic supervisor for my applied research internship?
+A:Once an internship is secured, students should reach out to potential supervisors that might be a good match, typically a faculty member doing research in the related field. The MScAC team can help advise in supervisor selection.
+
+12. The Internship
+Q:How do I find an internship and is the internship guaranteed?
+A:The internship is a mandatory requirement of the MScAC program. To date, 100% of the program’s graduated students have secured an internship, with an average total salary of $65,000 per eight-month internship in 2023. Remuneration cannot be guaranteed, but this is a reasonable expectation based on the experiences of previous cohorts.
+
+It is ultimately a student’s responsibility to secure an internship. Students are encouraged to begin their search from the start of the program. However, the program facilitates many opportunities to interact with organisations looking for MScAC students and solicits custom-built applied research internship projects. These projects will be available to students throughout the first two semesters.
+
+The program does not place students in internships and all students will be required to attend interviews with the companies they are interested in working with.
+
+Q:How do applied research internships differ from traditional internships?
+A:Students are expected to leverage their graduate academic training and past experiences to engage in applied research in the service of the company. As interns, MScAC students explore new initiatives, improvements in process or product, and new designs that could potentially impact the company.
+
+This imposes a higher standard of creative or intellectual exploration than would normally be encountered in a co-operative (co-op) work term.
+
+13. After Graduation
+Q:What is the likelihood of employment post-program?
+A:Historically, almost all MScAC graduates have either continued at their internship company or moved to another company directly after finishing their internship.
+
+Q:What have previous students of the program gone on to do?
+A:Students progress onto a variety of jobs within the technology sector or related industries. Many students have continued in a development or engineering role at their internship company. Others have progressed on to more technical/leadership-oriented roles, some go on to management or consultancy, and others have started companies.
+
+Q:International students: Can I stay in Canada after my studies?
+A:After completing the MScAC program, students are eligible for the Post-Graduate Work Permit (PGWP). To date, all MScAC students who have applied for the PGWP have been granted a permit that is three-years in length. Students who wish to stay in Canada for longer than the duration of the PGWP and apply for permanent residency, may be eligible for several other immigration programs.

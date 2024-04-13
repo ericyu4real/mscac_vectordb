@@ -1,0 +1,65 @@
+MScAC provides 7 concentrations: Applied Mathematics, Artificial Intelligence, Artificial Intelligence in Healthcare, Computer Science, Data Science, Data Science for Biology, Quantum Computing
+
+Applied Mathematics：
+To graduate,
+Students must successfully complete six graduate level courses (totalling 3.0 Full Course Equivalents (FCEs)) as follows:
+
+Two courses (1.0 FCEs) chosen from the Department of Mathematics course schedule. These must be MAT-1000 level courses or higher.
+
+Two courses (1.0 FCEs) chosen from the Department of Computer Science’s (CSC designator) course schedule.
+
+Two required courses (1.0 FCEs): Communication for Computer Scientists (CSC 2701H) and Technical Entrepreneurship (CSC 2702H).
+
+An eight-month industrial internship, CSC 2703H (3.5 FCEs). The internship is coordinated by the department, and evaluated on a pass/fail basis. ‘Pass’ grades are awarded based on evaluations received from the industry/academic supervisors of the internship project and submission of an appropriately written final report, documenting the applied research internship.
+
+Artificial Intelligence:
+To graduate,
+Students must successfully complete six graduate level courses (totalling 3.0 Full Course Equivalents (FCEs))* as follows:
+Two courses (1.0 FCEs) must be selected from the core list of AI courses (see list below) and cover two different research areas.
+One course (0.5 FCE) must be chosen from additional AI courses outside the core list.
+One course (0.5 FCE) must be chosen from courses outside of AI
+Two required courses (1.0 FCEs): Communication for Computer Scientists (CSC 2701H) and Technical Entrepreneurship (CSC 2702H).
+Students are permitted to choose a maximum of two courses (1.0 FCEs) from outside the Computer Science graduate course listing.
+
+Artificial Intelligence in Healthcare:
+To graduate,
+Students must successfully complete a total of 3.0 full-course equivalents (FCEs) as follows:
+0.5 FCE of coursework in the area of Data Science from an approved list.
+0.5 FCE of coursework in the area of Artificial Intelligence from an approved list.
+0.5 FCE in visualization/systems/software engineering from an approved list.
+0.5 FCE of LMP/MHI coursework from an approved list.
+1.0 FCEs required professional courses Communication for Computer Scientists (CSC 2701H) and Technical Entrepreneurship (CSC 2702H).
+An eight-month industrial internship, CSC 2703H (3.5 FCEs). The internship is coordinated by the department and evaluated on a pass/fail basis. ‘Pass’ grades are awarded based on evaluations received from the industry/academic supervisors of the internship project and submission of an appropriately written final report, documenting the applied research internship.
+
+Computer Science:
+To graduate,
+Students must successfully complete six graduate level courses (totalling 3.0 Full Course Equivalents (FCEs)) as follows:
+Two courses (1.0 FCEs) must be chosen from the Department of Computer Science’s (CSC designator) course schedule.
+Two courses (1.0 FCEs) can be chosen from the Department of Computer Science’s (CSC designator) course schedule; however, students also have the option of choosing sufficiently technical graduate level courses from other departments as well.
+Two required courses (1.0 FCEs): Communication for Computer Scientists (CSC 2701H) and Technical Entrepreneurship (CSC 2702H).
+An eight-month industrial internship, CSC 2703H (3.5 FCEs). The internship is coordinated by the department and evaluated on a pass/fail basis. ‘Pass’ grades are awarded based on evaluations received from the industry/academic supervisors of the internship project and submission of an appropriately written final report, documenting the applied research internship. 
+
+Data Science:
+To graduate,
+Students must successfully complete six graduate level courses (totalling 3.0 Full Course Equivalents (FCEs)) as follows:
+One course (0.5 FCE) chosen from the Department of Statistical Sciences course schedule. These must be STA-2000 level courses or higher. The course selection may also include a maximum of two courses (0.5 FCE) chosen from the STA-4500 level of six-week modular courses (0.25 FCE each)
+One course (0.5 FCE) chosen from the four approved Statistical Science courses. STA2101H Methods of Applied Statistics I, STA2102H Computational Techniques in Statistics, STA2311H Advanced Computational Methods for Statistics I, STA2312H Advanced Computational Methods for Statistics II
+Two courses (1.0 FCEs) chosen from the Department of Computer Science’s (CSC designator) course schedule.
+Two required courses (1.0 FCEs): Communication for Computer Scientists (CSC 2701H) and Technical Entrepreneurship (CSC 2702H).
+An eight-month industrial internship, CSC 2703H (3.5 FCEs). The internship is coordinated by the department and evaluated on a pass/fail basis. ‘Pass’ grades are awarded based on evaluations received from the industry/academic supervisors of the internship project and submission of an appropriately written final report, documenting the applied research internship.
+
+Data Science for Biology:
+To graduate,
+Students must successfully complete six graduate level courses (totalling 3.0 Full Course Equivalents (FCEs)) as follows:
+1.0 FCE chosen from the CSB/EEB/MMG/STA 1000-level or higher from the approved list (graduate courses from participating departments that have a bioinformatics or computational biology focus). This may include a maximum of 0.5 FCE chosen from EEB/MMG/STA courses. Appropriate substitutions may be possible with approval.
+1.0 FCE chosen from the Computer Science (CSC course designator) graduate course listings from the approved list in two different research areas as defined in the Computer Science Graduate Student Handbook, at most one of which is from Artificial Intelligence. Course selections should be made in consultation with, and be approved by, the Program Director. Appropriate substitutions may be possible with approval.
+1.0 FCEs required professional courses Communication for Computer Scientists (CSC 2701H) and Technical Entrepreneurship (CSC 2702H).
+An eight-month industrial internship, CSC 2703H (3.5 FCEs). The internship is coordinated by the department and evaluated on a pass/fail basis. ‘Pass’ grades are awarded based on evaluations received from the industry/academic supervisors of the internship project and submission of an appropriately written final report, documenting the applied research internship.
+
+Quantum Computing:
+To graduate,
+Students must successfully complete six graduate level courses (totalling 3.0 Full Course Equivalents (FCEs)) as follows:
+Two courses (1.0 FCEs) chosen from the Department of Physics’ course schedule. 
+Two courses (1.0 FCEs) chosen from the Department of Computer Science’s (CSC designator) course schedule.
+Two required courses (1.0 FCEs): Communication for Computer Scientists (CSC 2701H) and Technical Entrepreneurship (CSC 2702H).
+An eight-month industrial internship, CSC 2703H (3.5 FCEs). The internship is coordinated by the department and evaluated on a pass/fail basis. ‘Pass’ grades are awarded based on evaluations received from the industry/academic supervisors and submission of an appropriately written final report, documenting the details of the applied research conducted during the internship.
