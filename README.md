@@ -17,7 +17,7 @@ We are excited to have contributors from the MScAC community and beyond. To cont
 
 3. **Create a Pull Request**
    - Once you've added your file to your forked repository, create a pull request to the main repository.
-   - Clearly describe what your file is about and why it adds value to the knowledge base.
+   - Clearly describe what your file is about.
 
 ## Contribution Guidelines
 
