@@ -1,0 +1,466 @@
+
+
+Recruiting Guidelines and Information for Partners
+
+Welcome to MScAC
+
+Each graduate student in the Master of Science in Applied Computing program (MScAC) takes part in an 8-month internship (May to December) that must include a substantial applied research component.
+
+The MScAC graduate program imposes a higher standard of creative or intellectual exploration than would normally be encountered in a co-op study program or a paid work experience program.
+
+Internship opportunities must be formally vetted by the MScAC program prior to being promoted to MScAC students.
+
+While MScAC does not have publication requirements, there are reporting requirements that should be reviewed by each prospective partner.
+
+Table of Contents
+
+
+
+Introduction to the Master of Science in Applied Computing (MScAC)
+Overview of the MScAC Program Students
+
+	Applied Research Internship Projects
+	
+	What Is an Applied Research Internship?
+	Student Supervision
+	Student Eligibility
+	Intellectual Property	
+		Reporting
+		
+		Confidentiality Requirements
+		ARIA Showcase and Final Report
+		
+	
+
+
+	Program Timeline
+	
+	Onboarding of Prospective Partners and Project Submission
+	Student Recruitment
+	
+		Internships
+		
+			Teaching Assistantships
+		
+	
+	
+
+
+	Compensation and Offers
+	
+	Preparing Offers
+	
+		Submitting Offers
+		
+		Student Etiquette
+		
+	
+	Direct Offers
+	
+		Supplemental Funding
+		
+		
+			Mitacs Accelerate
+			
+			Mitacs Accelerate Process for MScAC Applications
+			MScAC Administrative Fee and Partnership Tiers
+			Funding Breakdown, Drafting Offer Letters, and Examples
+			
+		
+		
+	
+	
+
+For More Information about MScAC
+
+
+
+`v4.4 2024`
+
+
+
+
+
+## Introduction to the Master of Science in Applied Computing (MScAC)
+
+The Master of Science in Applied Computing (MScAC) is a master’s-level degree program at the University of Toronto with an emphasis on applied research.
+
+Unlike traditional MSc programs, which require the completion of a novel major research report, the 16-month MScAC program requires students to complete a qualifying 8-month applied research internship at a partner organization, whether for-profit or not-for-profit, following the completion of four graduate-level technical courses.
+
+This document serves to outline the MScAC program’s guidelines for applied research internships involving MScAC students, as well as best practices to help you plan your investment in recruiting technical talent from the MScAC program at the University of Toronto.
+
+## Overview of the MScAC Program Students
+
+Our graduate students are carefully selected, with fewer than one in six applicants joining the program annually. The program draws on students from across the world, with nearly all students having professional experience prior to joining the program.
+
+Each MScAC student is admitted into one of seven concentrations:
+
+- Applied Math﻿ematics
+- Artificial Intelligence
+- Artificial Intelligence in Healthcare
+- Computer Science
+- Data Science
+- Data Science for Biology
+- Quantum Computing
+
+All MScAC students follow the same program timeline, but each student's choice of graduate research courses selected from the course schedules offered to students in the MSc/PhD programs is dependent on their concentration. MScAC students may be recruited from any concentration or concentrations.
+
+MScAC students are encouraged to seek out interesting internship projects irrespective of location. However, as the internship is a formal academic program requirement, all international students are in possession of a co-op work permit that allows them to work legally in Canada during the internship period.
+
+International students are also eligible for the post-graduation work permit (PGWP) upon completion of the MScAC program. This permit allows all MScAC interns to seamlessly transition into a full-time role once their internship is completed.
+
+## Applied Research Internship Projects
+
+While an MSc thesis requires novel research, an MScAC internship project is normally centred around the application of research, such as the exploration and synthesis of recent research results, evaluation, study, or demonstration of a research concept, or industrially relevant prototyping. The scope of an internship may involve coding or systems development that may lead to a contribution to a partner’s product or service offering, but it is *not* intended to replace regular product development.
+
+Partners should primarily consider MScAC interns for risk-tolerant projects that may fail or change course. It is possible for MScAC interns to work on proprietary or confidential projects, but a non-proprietary overview of the work must be available to the MScAC Program Team and a small number of faculty at the University of Toronto, for the purpose of assessment and ensuring that the academic requirements for the student’s degree are met. A non-proprietary overview of the work must also be made available for public disclosure and for MScAC promotional purposes. Note that the MScAC team has considerable experience with intellectual property (IP) issues.
+
+Partners may propose one or more applied research internship projects open to employing MScAC students as interns for a period of 8 months. These projects are usually relevant to the partner’s business and product lines. The submission and evaluation of these internship opportunities will follow the timeline outlined in the relevant section.
+
+It is critical that internship projects be within the scope of the requirements of the MScAC program and contain a significant applied research component to be eligible to meet the student’s degree requirements.
+
+During the internship, MScAC students should be designated as full-time employees of the partner organization (please see the relevant section for potential partial funding options from third-party organizations). If the MScAC student is an employee, the partner organization has responsibility to ensure health and safety in the workplace when MScAC student interns are working on site.
+
+### What Is an Applied Research Internship?
+
+Applied research aims to access and use some part of a research community's accumulated theories, knowledge, methods, and techniques for a specific purpose (often business- or client-driven). New knowledge acquired through applied research has specific objectives: products, technologies, procedures, or services. Applied research answers specific questions and is designed to address and solve the practical problems of the modern world; it often employs empirical methodologies.
+
+Our expectation is that, over the course of their internships, MScAC students will exploit their graduate academic training and past experience to engage in applied research in the service of the partner. Interns will explore new initiatives, improvements in processes or products, or new designs that could be of potential impact to the partner.
+
+These expectations impose a higher standard of creative or intellectual exploration than would normally be encountered in a co-operative work term. For example, a role consisting only of programming tasks would likely not qualify as an MScAC internship. That said, programming is often a component of the internships.
+
+It is particularly attractive for an intern to work on explorations that a partner might not otherwise perform. A common trajectory of successful MScAC internships involves the following stages:
+
+- Identification of one or more topics that the partner wishes to explore and perhaps apply somewhere in their operations.
+- Engagement of the student to explore current or past research in these areas and to propose specific directions that the partner could take.
+- Develop one or more prototypes sufficient to withstand validation against the partner's goals.
+- Refine the prototype(s) as necessary.
+- Perform a first implementation of the prototype.
+- Evaluate the outcome.
+
+The amount of time devoted to each stage is intended to be flexible, so as to adapt to the specific needs of the partner. The applied research project need not be performed exclusively by the intern but rather, the work could well be collaborative in nature.
+
+For more information and examples of qualifying projects, please see the relevant section.
+
+### Student Supervision
+
+All MScAC student interns must have both an industrial and an academic supervisor. The former is chosen by the partner, while the latter is a University of Toronto professor selected by the student. It can be of considerable advantage for a partner to have direct or indirect access to the domain expertise of the academic supervisor, and this may result in further collaborations.
+
+The role of an academic supervisor is to monitor the research engagement of the student with the partner and to provide high-level domain-specific guidance, such as pointing the student to useful research literature or algorithmic techniques. A deep knowledge of the partner’s infrastructure is usually not needed to provide such guidance.
+
+### Student Eligibility
+
+Both Canadian and international partners may recruit from the MScAC program:
+
+- Because a professional, applied research internship is a formal requirement of the MScAC program, all MScAC students regardless of nationality are eligible to undertake a qualifying project at a Canadian-incorporated partner as part of their degree requirements.
+- Organizations outside Canada are also welcome to participate in the MScAC program. In this case, internship employment may require additional visa processes involving additional direct engagement from the prospective partner.
+
+International students are responsible for procuring their work permits prior to employment in Canadian organizations; the MScAC program works with students to ensure they procure the work permit.
+
+Limiting factors on a prospective partner’s recruitment options (student citizenship or permanent resident status, etc.) are handled on a case-by-case basis. The MScAC program should be notified ahead of the project being posted, if this is the case, so that students can be appropriately notified. In some cases we can adjust the MScAC résumé book to only show those students who are eligible and relevant to the partner.
+
+### Intellectual Property
+
+MScAC recognizes the importance of confidentiality and ownership of intellectual property (IP).
+
+It is straightforward for MScAC to provide either informal or formal assurances regarding IP ownership. MScAC regards the IP created by the student relevant to the internship project as being owned by the partner.
+
+However, because students return to the university to meet with their academic supervisors, talk with other students, and take an evening course over their internship, the ideas developed by MScAC students on topics not related to the internship project are exempt from the partner’s ownership. Normally this assurance is enough for most partners, but MScAC can execute a formal IP carve-out agreement if necessary.
+
+Should the partner be concerned about disclosure of intellectual property, the academic supervisor may be invited to sign a non-disclosure agreement (NDA). The partner understands that signing an NDA is at the sole discretion of the academic supervisor.
+
+### Reporting
+
+#### Confidentiality Requirements
+
+The role of an MScAC intern’s academic supervisor is to monitor the research engagement of the student with the partner (see the relevant section). Academic supervisors are only expected to provide high-level domain-specific guidance, unless a different agreement has been put in place between the academic supervisor and the MScAC partner.
+
+If necessary, partners are encouraged to review and discuss their processes for external disclosure with the student and, optionally, with the MScAC program. Doing so will ensure that best practices are followed throughout the MScAC internship; it will also allow enough time for the MScAC intern and their partner to complete any required external disclosure processes the partner may require.
+
+#### ARIA Showcase and Final Report
+
+The MScAC program has no publication requirements.
+
+At the conclusion of the internship, MScAC interns are required to submit a final project report to the MScAC program. This report details their research results. The report must be approved by the industry supervisor, the academic supervisor, and the MScAC Program Director, and is critical to maintaining the integrity of the MScAC program.
+
+Final reports are only reviewed internally by MScAC staff and faculty. They are used to determine whether the student has met the formal requirements for graduation from the MScAC program. Final reports should include a sufficient level of detail about the internship project and the student’s role in the project to allow the MScAC program to assess the achievement of the MScAC program’s academic outcomes. No proprietary, confidential, or privileged information from the partner is expected to be included in these final reports.
+
+A non-proprietary overview of each internship project (public abstract) must also be made available for public disclosure and for MScAC promotional purposes. This overview is different from the final report. As part of the annual Applied Research in Action showcase event (ARIA), MScAC will disclose the title of the project, the public project overview, the name of the partner organization(s), the name of the MScAC intern(s), and the name of the academic supervisor(s) at the University of Toronto. This information may also be used to promote the MScAC program.
+
+## Program Timeline
+
+We recommend that the key contacts across any applicable business units at prospective partner organizations review the MScAC timeline outlined below. This timeline helps maintain the academic integrity of the MScAC program and protects the interests of all parties to the internship, with specific consideration given to the fulfilment of the student’s graduation criteria.
+
+Each partner’s business processes around the recruitment and hiring of MScAC interns are expected to be compatible with the MScAC timeline outlined below:
+
+
+2023
+	Oct
+	Internship opportunity submission to MScAC & review
+	
+Nov
+	Applied Research in Action (ARIA) 2023 showcase
+Dec
+	
+2024
+	Jan
+	Partners receive résumé book
+	Students access internship opportunities submitted by partners
+	
+	Blackout period for offers
+
+	Interviews & recruitment
+	MScAC Internship Expo
+Feb
+	Partners submit formal internship offers to students
+Mar
+Apr
+May
+	MScAC applied research internships
+	
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+	Applied Research in Action (ARIA) 2024 showcase
+DecFinal report submission to MScAC
+
+
+### Onboarding of Prospective Partners and Project Submission
+
+- **Starting summer 2023:** Prospective partners discuss with MScAC staff their R&D and talent recruitment plans, as well as potential internship projects.
+- **Starting Oct. 10, 2023:** Prospective partners submit to MScAC internship opportunity descriptions and confirm attendance to the MScAC Internship Expo internship fair, taking place in Jan. 2024. Internship opportunities must be submitted to the MScAC program following the “Guide to Writing Internship Proposals” document. Submission deadline: Nov. 17, 2023.
+- **Throughout the Fall and Winter semesters:** We welcome prospective MScAC partners to engage with our graduate students, in person and virtually, at the MScAC Partner Nights. Meet our talented and diverse graduate student cohort through a mix of partner-led information sessions and networking events. Connect with our team to inquire about available sessions.
+- **Nov. 16, 2023:** Prospective partners are invited to attend MScAC's Applied Research in Action (ARIA) showcase. Partner booths and sponsorship packages are available.
+
+### Student Recruitment
+
+- **Jan. 15, 2024:** Internship opportunities are made accessible to MScAC students. Partners receive the MScAC student résumé book. Partners can carry out a preliminary review of the résumés from the current cohort of MScAC students and start interviewing.
+	- Partners with accepted projects will receive access credentials to review the MScAC résumé book. Interviews can start as soon as you receive access to the MScAC résumé book.
+	- The résumé book includes all the résumés for available students. This is preferable, since you may also be interested in speaking with some of the students who have not specifically expressed interest in your projects up to this point.
+	- Partners are encouraged to follow their typical recruitment processes and best practices. MScAC has no requirements regarding the type, timing, number, or format of interviews (technical or otherwise).
+- **Jan. 23–27, 2024:** Partners attend the MScAC Internship Expo to promote their internship opportunities to MScAC students (optional but recommended).
+- **Jan. 15 to Feb. 4, 2024:** Partners interview MScAC students and prepare internship offers. No offers may be extended during this period. Partners may interview MScAC students during this blackout period as well as continue interviewing after the end of this blackout period.
+- **Starting Feb. 5, 2024:** Partners may submit internship offer letters to MScAC students. These offer letters are contractual offers of employment and must be submitted through the online MScAC offer portal. Students will have 2 business days to accept internship offers from prospective partners. Only offers made through the MScAC offer portal are considered formal offers by the MScAC program. Please see the relevant section for more details.
+- **Feb. 5, 2024 onwards (optional):** Partners may work with their MScAC Partnerships contact to apply for financial subsidies to offset part of the salary for any MScAC interns who have accepted their offer. MScAC and Mitacs have developed a streamlined, fast-track process to facilitate this process. Support from other funding agencies may also be possible. Please see the relevant section of this document and contact MScAC Partnerships for further information.
+
+### Internships
+
+- **May 1–Dec. 31, 2024:** MScAC internships take place. The formal start and end dates of MScAC internships are May 1st, 2024 and December 31st, 2024, respectively.
+- **Late Nov. 2024:** MScAC students participate in the Applied Research in Action showcase (ARIA), where a high-level description of your projects is presented. Partner booths and sponsorship packages are available.
+- **Dec. 2024:** MScAC students are required to submit final reports internally to the MScAC program, detailing their research and results.
+
+Please note that, during the internship period, MScAC students are required to take a Technical Entrepreneurship course (CSC2702H). This course is not an onerous time requirement and is offered in the evening (6–9 p.m., Toronto time) on a biweekly basis. This course ensures that the students return periodically to the University of Toronto for mentoring, supervision, and reconnecting with the MScAC cohort of students.
+
+#### Teaching Assistantships
+
+MScAC students are eligible to apply for teaching assistantship positions. These positions are posted in late June/early July, and all students in the graduate programs are invited to apply.
+
+Teaching assistantships are *not* a requirement of the MScAC program, and it is our expectation that students will be prioritising their academic obligations (completion of the internship) between May and December. However, the MScAC program advises MScAC partner organizations to discuss with their interns any planned commitment to teaching assistantships.
+
+Any additional activities during the MScAC internships, including teaching assistantships, may require supporting documentation from the partner organization. If considering a teaching assistantship, MScAC interns are instructed to request from the partner organization hosting the internship a letter on company letterhead with:
+
+- The non-internship activity the student is participating in. If the proposed activity is a course or teaching assistantship, the course code and title should be included.
+- Days and times of the activity
+- Confirmation of approval from the partner organization hosting the internship.
+
+Determining whether this participation in a teaching assistantship conflicts with the intern's pre-existing academic obligations at the partner organization lies within the discretion of the partner organization.
+
+The partner organization reserves the right to identify and address any conflicts the teaching assistantship may present concerning both business objectives and academic progress throughout the internship. In such instances, the MScAC program recommends that the partner organization communicate any concerns to both the student and the MScAC program, preferably with an accompanying rationale.
+
+## Compensation and Offers
+
+A partner may recruit multiple MScAC interns from the same cohort. These students can work on the same project, as a group, or each work on a different project.
+
+Partners are responsible for providing financial compensation to any MScAC graduate student chosen to take part in an applied research internship.
+
+The MScAC program does not negotiate the compensation level on behalf of its students. The level of compensation received by an MScAC student intern is determined by the partner. For the 2023 MScAC internships, the average compensation was C\$65,000 over 8 months, with a broad compensation range (from C\$40,000 to over C\$100,000 for the 8 months). For more detailed salary benchmarks for the MScAC internships, please consult with your point of contact from the MScAC Partnerships team.
+
+While compensation is a factor considered by MScAC students when assessing a project, students are strongly encouraged to focus on other factors when deciding which internship to accept. These factors include: the quality of the applied research in the proposed project, the work environment, the level of supervision, and the reputation of the partner.
+
+Should the partner choose to select an MScAC student for an applied research internship, the partner is expected to extend a formal employment offer (with compensation details) to the prospective MScAC intern. This offer, if accepted by the prospective MScAC intern, constitutes a formal agreement between the partner and the prospective MScAC intern.
+
+MScAC interns should be formally employed by the partner over the course of their MScAC applied research internships. Partners may be asked to provide proof of employment or appropriate letters of support.
+
+### Preparing Offers
+
+Partners can let MScAC students know they intend to submit an offer after the offer blackout period. That said, no partner should request or expect confirmation (verbal or otherwise) of the acceptance of a verbal offer before an offer has been formally submitted through the MScAC offer management system.
+
+Only offers made through the MScAC offer management system after the end of the blackout period for offers are considered official offers by the MScAC program. Please see the relevant section for a detailed recruitment timeline. After the MScAC Internship Expo, partners with accepted projects will receive access credentials to the MScAC offer portal.
+
+In order to be able to be ready to make offers to multiple students, should one or more decline an offer, several larger MScAC partners prepare very short offer letters. These letters include only the student’s name, the position for which they are receiving an offer, and the total compensation—signed by the relevant representative from the partner organization.
+
+Only if a student accepts this basic offer letter then the partner prepares the full offer, with the appropriate employment terms and/or a full contract. This option provides some of our larger industry partner with the flexibility to have basic offer letters ready for the purpose of formalizing the MScAC recruitment, while leaving time afterwards for the longer process of producing full contracts for the students that did accept offers.
+
+Clearly indicate in each offer letter the compensation offered, and whether it is an annual amount or the amount for the 8 months of the internship. If additional screening steps are required, please indicate this in the offer letter. For example, in the case of a background check, please include wording in the offer letter such as "One of our staffing partners will present you with a formal offer following the completion of a successful background check."
+
+### Submitting Offers
+
+We require offer documents to be uploaded to the MScAC offer management system as PDF files for tracking purposes. Note that offers made in the system have a two (2) business day expiry period, and your offer letters should reflect this fact. Offers may not be rescinded once submitted to the MScAC offer management system.
+
+Once you have uploaded your offer(s) to the MScAC offer management system, the respective student(s) will be notified by email. They will also accept or decline each offer through the same MScAC offer management system. You will be notified immediately via email when a student accepts or declines your offer. In the event a student accepts an alternate offer, you will immediately receive a notification that your offer has been implicitly declined. Finally, in the event the offer expires, you will also receive a notification.
+
+#### Student Etiquette
+
+Once an offer has been made, students may request time to consider such an important decision. Waiting until offers are uploaded into the offer management system is a reasonable request, given what the program considers an official offer. This process can be stressful for our students, so they should feel like they have a reasonable amount of time to make an informed decision, and one in which they are confident.
+
+Conversely, students are expected to make their decisions swiftly, and without undue deliberation. For example, sitting on an offer for the entire offer expiry period, and then requesting the offer be re-uploaded to them to give them a few more days to decide is not acceptable. Our students have been coached not to do this, but if something like this occurs, please let us know.
+
+### Direct Offers
+
+MScAC students are allowed and encouraged to independently seek internship opportunities that may be a good fit for their interests, the result of which may be an internship offer from a partner organization. We define this as "direct recruitment", as it specifically refers to the submission of an internship offer by a partner organization to a specific current MScAC student without broadly promoting their internship projects to the MScAC cohort.
+
+Direct offers are the result of an MScAC student independently applying to positions posted by the external organization, or the external organization independently identifying MScAC students who would be a good fit for specific internship positions where it would not be time- or cost-effective to interview from the MScAC cohort at large.
+
+No direct offers may be extended 1) by organizations that have been formally onboarded by MScAC and/or have hosted an MScAC event, or 2) for internship projects submitted directly to MScAC by prospective partner organizations and meant to be broadly promoted to the MScAC cohort.
+
+Before the MScAC student can accept any such direct offer, the proposed internship project requires formal vetting and approval by the MScAC program. This vetting is to ensure that the proposed internship project is in alignment with the MScAC program’s academic requirements. A formal acknowledgement by the partner organization of the MScAC program’s requirements is also needed.
+
+Direct offers do not need to be submitted to the selected student(s) through the MScAC offer management system and may be extended to the selected student(s) before the end of the MScAC blackout period for offers. The MScAC program will require a copy of each offer, if accepted by the student. Students who have accepted direct offers will be removed from the MScAC offer management system and will be unable to accept further offers.
+
+Following this type of recruitment process might put prospective partner organizations at a disadvantage, since direct offers severely limit who the partner organization can recruit from MScAC and may introduce delays if the internship position is not vetted by the MScAC program at an appropriately early stage.
+
+### Supplemental Funding
+
+There are several avenues available to partners to offset part of the costs associated with the recruitment of MScAC interns, including a number of academic-industry collaborative grants.
+
+Typically, partners apply to external supplemental funding programs (such as those provided by organizations such as Mitacs, NSERC, OCI, Technation, IRAP, etc.). These funding programs are not a part of the MScAC program or the University of Toronto. Partners seeking supplemental funding support are welcome to contact their MScAC Partnerships staff for assistance.
+
+Because matching-funds programs are available to provide partial financial internship support to partners, employment offers for MScAC interns may be more complicated than a normal offer of employment. MScAC can provide illustrative examples that reflect best practices for appropriate language in employment contracts from its perspective. MScAC encourages partners to seek independent professional advice wherever warranted.
+
+Partners understand that failure to secure external funding cannot be grounds for rescinding a formal offer submitted to an MScAC intern. The MScAC program advises partners to indicate in any offer whether the offer includes external sources of supplemental funding, and the level of compensation that the student is expected to receive with and without said external sources of supplemental funding.
+
+If applying for or securing matching funds and/or external funding in support of an MScAC internship, partners understand that they may have to respect the timelines of the corresponding application process(es), which may involve the collaborative drafting of grant applications (along with the MScAC student and their academic supervisor) and the timely payment of appropriate invoices to receive matching funds.
+
+In past years, partner contributions have typically been eligible for SR&ED tax credits if the for-profit partner is incorporated in Canada. We encourage partners to speak with accounting professionals to determine whether their contribution would be SR&ED eligible. Additional tax credits may be available (for example, in Ontario: OITC, OBRITC, ORDTC, Ontario Co-operative Education Tax Credit).
+
+#### Mitacs Accelerate
+
+Mitacs is an independent Canadian not-for-profit organization supported by the federal and provincial governments. Through the Mitacs Accelerate program, Mitacs supports academic collaborations with for-profit corporations and eligible not-for-profit corporations, municipalities, and hospitals in Canada.
+
+The Mitacs Accelerate program has proven to be extremely effective in the past for eligible partners in Canada to offset some of the costs associated with the hiring of MScAC interns.
+
+The Mitacs Accelerate program is available to those students interning with for-profit organizations operating in Canada and with Mitacs-eligible not-for-profit organizations within Canada. MScAC students are expected to participate in the preparation of any proposal submitted to the Mitacs Accelerate program.
+
+The MScAC program has an agreement in place with Mitacs that enables fast-track review and adjudication of Mitacs Accelerate applications (about 2 weeks from submission to Mitacs).
+
+The Mitacs Accelerate program provides an MScAC partner with a *net* saving of C\$10,000 to C\$15,000 over 8 months on its costs towards the intern’s stipend, depending on the total compensation offered to the student and the type of organization partnering with MScAC. With this model Mitacs matches every dollar provided by the partner organization towards an MScAC intern’s compensation, with Mitacs providing a cash contribution of C\$15,000 over 8 months [^1].
+
+[^1]: Due to the exceptionally high demand for Mitacs programs across the country, in the fall of 2022 Mitacs announced that the C\$20,000 Mitacs Accelerate award made available to MScAC partners in 2021–22 would no longer be offered. The Mitacs funding model for MScAC partners is now the standard Mitacs Accelerate award level, which matches C\$15,000 from the partner organization with C\$15,000 from Mitacs.
+
+The Mitacs Accelerate funds are provided by Mitacs to the University of Toronto and disbursed directly to the appropriate student(s). If the partner organization is a successful Mitacs Accelerate applicant, the total compensation to be paid to each MScAC student through the partner’s payroll must correspond to the total amount committed in the offer letter *minus* the total Mitacs Accelerate grant amount (\$30,000).
+
+Partners applying for Mitacs Accelerate in support of their MScAC internships may be assessed an administrative fee by the MScAC program: please see the relevant section for more information.
+
+The Mitacs Accelerate award is disbursed by the University of Toronto to the student on a monthly basis as a scholarship. Students who received Mitacs funding are provided with a T4A by the University for income tax purposes.
+
+##### Mitacs Accelerate Process for MScAC Applications
+
+1. One or more MScAC students accept internship offers from the partner organization.
+2. **Drafting the application:**
+	- The student or students work with the MScAC program to identify an academic supervisor, who will be a co-applicant on the Mitacs Accelerate application.
+	- The student or students draft their Mitacs Accelerate application, with input from the partner organization and the academic supervisor (if already identified). The contents of the internship project description initially submitted to MScAC by the partner organization may be used as a starting point. The partner organization may choose to submit a single Mitacs Accelerate application for multiple students working as a team on the same project, or for multiple students working on different aspects of the same project.
+3. A first full draft of the Mitacs Accelerate application is submitted by the applicants to Mitacs by the draft review deadline.
+4. The applicants and Mitacs iterate on the Mitacs Accelerate application draft until ready.
+5. **Finalizing the application:**
+	- The student(s), the partner organization, and the academic supervisor(s) named on each Mitacs Accelerate application sign their application. The completed and signed application is submitted by the applicants to Mitacs by the submission deadline.
+	- Each academic supervisor is asked by Mitacs to submit their Mitacs Accelerate application to the University of Toronto's internal My Research Applications (MRA) system.
+6. Mitacs forwards the completed and signed application to the Innovations, Partnerships, & Entrepreneurship office at the University of Toronto for the final institutional signature. Once this signature is received, the application is formally received by Mitacs.
+7. Mitacs issues to the partner organization an invoice for the amount to be matched through the Mitacs Accelerate amount (C\$15,000 per student for 8 months, plus MScAC program fee is applicable, plus applicable taxes).
+8. Once the application has been approved by Mitacs *and* payment for the invoice has been received by Mitacs, Mitacs issues an award letter to the University of Toronto and releases the Mitacs Accelerate award (C\$30,000 per student for 8 months) to the University.
+9. The internship can formally start on May 1st, whether the Mitacs award letter has been received or it is still being processed. The University of Toronto disburses the Mitacs Accelerate award to the student through monthly payments, while the partner organization pays the student an amount corresponding to the total compensation minus C\$30,000 directly according to their typical payroll schedule.
+
+##### MScAC Administrative Fee and Partnership Tiers
+
+Partners applying for Mitacs Accelerate cash leveraging in support of their MScAC internships may be assessed an administrative fee by the MScAC program to cover MScAC program costs. This fee is dependent on the type of partner organization:
+
+- **Tier 1 (no administrative fee).** Canadian not-for-profit (NFP) and non-governmental organizations (NGO), including but not limited to hospitals, municipalities, charitable organizations, economic development organizations, industry associations, and social welfare organizations.
+- **Tier 2 (C\$5,000 administrative fee per MScAC student).** Any Canadian corporation that is not a Tier 1 entity. This includes but it is not limited to:
+	- A Canadian-controlled private corporation (CCPC) with less than 500 employees.
+	- Large Canadian corporations (500 or more employees).
+	- Subsidiaries of foreign-controlled enterprises. A subsidiary is a Canadian corporation, incorporated federally or provincially, whose shares are held by a foreign parent company.
+
+In some cases, foreign enterprises may be eligible for Mitacs funding. In such cases these partners will be classified in Tier 2.
+
+It is the responsibility of MScAC to determine the tier of each partner. We encourage partners to speak with the MScAC Partnerships team if there are any questions about their tier.
+
+##### Funding Breakdown, Drafting Offer Letters, and Examples
+
+As an example, the following table outlines the funding breakdown for the case of a partner providing an MScAC student intern with a total compensation of C\$70,000 for an 8-month internship. Please note that the financial contribution leveraged through Mitacs by organizations with permanent establishment in Canada may be subject to any applicable Goods and Services Tax (GST), Harmonized Sales Tax (HST) and/or Quebec Sales Tax (QST).
+
+
+
+Example: Funding breakdown for a partner providing an MScAC student intern with a total compensation of C$70,000 for an 8-month internship. The total compensation amount is quoted purely as an example.
+
+
+	
+		
+		Not using Mitacs Accelerate
+		Using Mitacs Accelerate
+	
+	
+		Tier 1 partners
+		Tier 2 partners
+	
+
+
+	
+		Total partner contribution
+		C$70,000
+		C$55,000
+		C$60,000
+	
+	
+		Mitacs contribution
+		C$0
+		C$15,000
+	
+	
+		Total funds
+		C$70,000
+		C$70,000
+		C$75,000
+	
+	
+		
+	
+	
+		Paid to MScAC intern
+		C$70,000
+		C$70,000
+	
+	
+		MScAC administrative fee
+		C$0
+		C$0
+		C$5,000
+	
+
+
+
+Given the potential funds from the Mitacs Accelerate program, the wording of the offer can be somewhat more provisional than usual. We suggest the following change to your usual wording in the offer letter (this example uses a total Mitacs Accelerate award of C\$30,000):
+
+> Your compensation over the eight-month duration of your internship will be **TOTAL COMPENSATION AMOUNT**. Of this, we will provide **TOTAL COMPENSATION AMOUNT MINUS C\$30,000** to you directly as an internship stipend consistent with the formal requirements of your internship. An additional C\$30,000 will be provided to you as a scholarship through the University of Toronto upon the approval of a Mitacs proposal. We are prepared to work closely with you to prepare the Mitacs proposal. Should the application to Mitacs not succeed, we will guarantee compensation of **TOTAL COMPENSATION AMOUNT** over your eight-month internship.
+
+It is the partner’s responsibility to ensure that MScAC interns are paid *at least* minimum wage through the partner’s payroll, whenever applicable, if applying for supplemental funding. As an example: for total compensation amounts equal to or greater than C\$60,000 over 8 months, we recommend that partners using Mitacs pay each MScAC intern at least C\$20,000 directly. Doing so will ensure that MScAC interns are on the partner's payroll, which may be a requirement for the MScAC interns to have access to the partner's facilities, infrastructure, and personnel security clearances.
+
+Please note that successful Mitacs funding is ultimately dependent on a formal, non-competitive review and adjudication process. To date, MScAC partners have had 100% success rate in receiving Mitacs Accelerate matching funds. 
+
+## For More Information about MScAC
+
+The MScAC program's Applied Research in Action (ARIA) brochures detail most of the qualifying internship projects for which partners have recruited MScAC students.
+
+The MScAC website showcases the profiles of some 2021, 2022, and 2023 MScAC graduates. Profiles of some of the current 2023–24 MScAC students are also available.
+
+Prospective partners interested in participating in the MScAC program at the University of Toronto should contact the MScAC program team after reading this overview.
+
+**Website:** https://mscac.utoronto.ca
+
+**Email:** partners@mscac.utoronto.ca
+
+- For the latest version of **this document**, please visit: https://mscac.utoronto.ca/partner-guidelines
+- For the latest version of the **Guide to Writing Internship Proposals**, please visit: https://uoft.me/mscac-internship-proposal-guide
+- For the latest version of the **Internship Proposal Form**, please visit: https://uoft.me/mscac-internship-proposal-form
+
